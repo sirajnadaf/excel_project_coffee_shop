@@ -13,3 +13,4 @@ what output i can extract to analyse.below r the some analysis questions which i
 **5- what is avg. price per order per person.**
 **6- which product is best selling in terms of quantity and revenue.**
 **7- how do sales vary by product category and types.etc**
+
